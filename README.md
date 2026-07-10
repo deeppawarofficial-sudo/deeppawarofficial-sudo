@@ -1,16 +1,19 @@
-## Hi there 👋
+Backend Developer | Java | Node.js | FastAPI | Machine Learning
+PortfolioLinkedIn
+Email
 
-<!--
-**deeppawarofficial-sudo/deeppawarofficial-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+🎓 I'm a B.Tech Information Technology student at VIIT Pune.
+🚀 I specialize in designing scalable APIs, solving complex engineering problems, and building software that creates real-world impact.
+💻 I have solved 300+ Data Structures & Algorithms problems.
+🏆 Achievements: 1st Place at Build-a-Thon 2025, Top 4 at TENET Hack 25.
+🌐 Check out my complete portfolio at deepfr.xyz.
+🛠️ Tech Stack & Tools
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📊 GitHub Stats
+Deep's GitHub Stats
+
+Deep's GitHub Streak
+
