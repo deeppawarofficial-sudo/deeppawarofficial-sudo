@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Deep Pawar 👋</h1>
 
 <h3 align="center">Backend Developer | Java | Node.js | FastAPI | Machine Learning</h3>
@@ -18,11 +17,12 @@
 ---
 
 ### 👨‍💻 About Me
+
 - 🎓 I'm a **B.Tech Information Technology** student at VIIT Pune.
 - 🚀 I specialize in designing scalable APIs, solving complex engineering problems, and building software that creates real-world impact.
 - 💻 I have solved **300+** Data Structures & Algorithms problems.
-- 🏆 **Achievements**: 1st Place at Build-a-Thon 2025, Top 4 at TENET Hack 25.
-- 🌐 Check out my complete portfolio at [**deepfr.xyz**](https://deepfr.xyz).
+- 🏆 **Achievements:** 1st Place at Build-a-Thon 2025, Top 4 at TENET Hack 25.
+- 🌐 Check out my complete portfolio at **https://deepfr.xyz**
 
 ---
 
@@ -49,8 +49,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deeppawarofficial-sudo&show_icons=true&theme=tokyonight" alt="Deep's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deeppawarofficial-sudo&theme=tokyonight" alt="Deep's GitHub Streak" />
 </p>
