@@ -80,8 +80,8 @@ Building scalable backend systems and AI-powered applications.
 
 # 🚀 Currently Building
 
-<img align="right" width="220"
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+<img align="right" width="260"
+src="https://raw.githubusercontent.com/rahul-jha98/README.md/main/techstack.gif">
 
 - 📚 Multi-document RAG System
 - 🤖 AI Agent Workflows
