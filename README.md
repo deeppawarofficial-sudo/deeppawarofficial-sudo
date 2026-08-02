@@ -81,8 +81,7 @@ Building scalable backend systems and AI-powered applications.
 # 🚀 Currently Building
 
 <img align="right" width="250"
-src="https://i.imgur.com/n8OYCzR.gif">
-
+src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
 
 - 📚 Multi-document RAG System
 - 🤖 AI Agent Workflows
