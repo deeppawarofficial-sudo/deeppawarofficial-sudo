@@ -2,7 +2,9 @@
 
 # Hi there, I'm Deep Pawar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Building+Scalable+APIs;GenAI+%7C+RAG+%7C+AI+Agents;Always+Learning+🚀" />
+<p align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350"/>
+</p>
 
 ### Backend Engineer • GenAI • RAG • AI Agents
 
