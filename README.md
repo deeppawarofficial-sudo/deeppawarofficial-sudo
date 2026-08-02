@@ -80,8 +80,8 @@ Building scalable backend systems and AI-powered applications.
 
 # 🚀 Currently Building
 
-<img align="right" width="260"
-src="https://i.imgur.com/BrP8P6M.gif">
+<img align="right" width="250"
+src="https://i.imgur.com/n8OYCzR.gif">
 
 
 - 📚 Multi-document RAG System
