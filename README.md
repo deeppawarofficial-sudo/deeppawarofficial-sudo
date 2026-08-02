@@ -81,7 +81,7 @@ Building scalable backend systems and AI-powered applications.
 # 🚀 Currently Building
 
 <img align="right" width="260"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+src="https://i.imgur.com/BrP8P6M.gif">
 
 
 - 📚 Multi-document RAG System
