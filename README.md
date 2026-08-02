@@ -13,7 +13,7 @@ Building scalable backend systems and AI-powered applications.
 <img src="https://img.shields.io/badge/Portfolio-deepfr.xyz-2563EB?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://linkedin.com/in/deeppawar">
+<a href="https://www.linkedin.com/in/deep-pawar21">
 <img src="https://img.shields.io/badge/LinkedIn-deeppawar-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
