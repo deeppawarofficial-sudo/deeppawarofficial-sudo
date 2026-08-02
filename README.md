@@ -80,7 +80,7 @@ Building scalable backend systems and AI-powered applications.
 
 # 🚀 Currently Building
 
-<img align="right" alt="Programmer" width="350"
+<img align="right" width="260"
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
