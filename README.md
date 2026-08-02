@@ -80,6 +80,10 @@ Building scalable backend systems and AI-powered applications.
 
 # 🚀 Currently Building
 
+<img align="right" alt="Programmer" width="350"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
 - 📚 Multi-document RAG System
 - 🤖 AI Agent Workflows
 - ⚡ FastAPI + PostgreSQL Backends
