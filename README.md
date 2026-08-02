@@ -80,8 +80,8 @@ Building scalable backend systems and AI-powered applications.
 
 # 🚀 Currently Building
 
-<img align="right" width="250"
-src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
+<img align="right" width="220"
+src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 - 📚 Multi-document RAG System
 - 🤖 AI Agent Workflows
